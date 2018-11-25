@@ -1,0 +1,40 @@
+/* 添加 CSS */
+.around{
+    width: 400px;
+    padding: 5%;
+}
+
+.outsidearound{
+    border: 1px solid #cccccc;
+    box-shadow: 5px 5px 5px #cccccc;
+    border-radius: 50px;
+    padding: 5%;
+}
+
+.picture{
+    width: 300px;
+    padding: 5%;
+}
+
+.insidearound{
+    border: 1px solid #cccccc;
+    border-radius: 50px;
+    padding: 5%;
+}
+
+.tips{
+    font-style: italic;
+}
+
+.sUI{
+    margin:0px;
+    padding:0px;
+}
+
+.sUI li{
+    list-style: none;
+}
+
+.title{
+    font-weight: bold;
+}
